@@ -1,4 +1,4 @@
-#LIME: Low-Light Image Enhancement via Illumination Map Estimation
+# LIME: Low-Light Image Enhancement via Illumination Map Estimation
 
 This is a MATLAB implementation of the paper, "LIME: Low-Light Image Enhancement via Illumination Map Estimation". It was done as a course Capstone project for Digital Image Processing (EE60062), under the guidance of Prof. Debdoot Sheet.
 
