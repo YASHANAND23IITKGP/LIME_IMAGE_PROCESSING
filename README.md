@@ -74,5 +74,9 @@ If you find this code helpful and use it in your research, please cite the follo
   pages={982-993},}
 ```
 ## Contributors
-KAUSHAL KISHOR\\
-ATUL SAURABH
+
+- @KAUSHALKISHOR9939
+- @atulsaurabh1995
+
+
+
