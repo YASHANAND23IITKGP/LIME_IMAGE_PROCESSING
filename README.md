@@ -56,7 +56,8 @@ img_in = imread('x.bmp');
 ## Results
 <!-- Using alt attribute for accessibility and debugging -->
 <img width="100%" src="Images/8_combined.png" alt="Combined Image Not Found" />
-> **First column**: Low-light images, **second column**: heat map of initial illumination map, **third column**: heat map of estimated illumination map, **fourth column**: enhanced results, **fifth column**: denoised results via bilateral filtering. 
+
+> **First column**: Low-light images, **second column**: heat map of initial illumination map, **third column**: heat map of estimated illumination map, **fourth column**: enhanced results, **fifth column**: denoised results via bilateral filtering.  
 
 
 
