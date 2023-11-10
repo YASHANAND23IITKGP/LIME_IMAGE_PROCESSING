@@ -3,7 +3,7 @@
 This is a MATLAB implementation of the paper, "LIME: Low-Light Image Enhancement via Illumination Map Estimation". It was done as a course Capstone project for Digital Image Processing (EE60062), under the guidance of Prof. Debdoot Sheet.
 
 * The project report can be found [here](https://drive.google.com/file/d/1RZk386iDRkE_KJBXhzf-fqDofLo6PBYf/view?usp=drive_link).
-* The paper can be found [here](https://ieeexplore.ieee.org/document/7782813)
+* The IEEE reference paper can be found [here](https://ieeexplore.ieee.org/document/7782813)
 
 ## How to Use 
 ### Clone the repository:
