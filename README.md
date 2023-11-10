@@ -15,7 +15,7 @@ git clone https://github.com/YASHANAND23IITKGP/LIME_IMAGE-_PROCESSING
 
 ### Add paths
 &nbsp; Run the following to the MATLAB command window:
-
+```
 addpath('./imgs');
 ```
 ### Load images and run
