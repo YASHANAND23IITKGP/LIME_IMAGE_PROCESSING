@@ -54,13 +54,14 @@ img_in = imread('x.bmp');
 
 
 ## Results
-<img width = "100%" src = "Images/8_combined.png" />
+<!-- Using alt attribute for accessibility and debugging -->
+<img width="100%" src="Images/8_combined.png" alt="Combined Image Not Found" />
 
-> **First column**: Low-light images, **second column**: heat map of initial illumination map, **third column**: heat map of estimated illumination map, **fourth column**: enhanced results, **fifth column**: denoised results via bilateral filtering. 
+<!-- Checking with a descriptive alt text -->
+<p align="left">
+    <img width="100%" src="assets/datasets_results.png" alt="Dataset Results Image Not Found" />
+</p>
 
-<p align = "left"><img width = "100%" src = "assets/datasets_results.png"></p>
-
-> Some low-light images from **ExDark dataset**, and results obtained from our implementation.
 
 ## Citation
 If you find this code helpful and use it in your research, please cite the following work:
