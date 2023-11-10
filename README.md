@@ -56,13 +56,11 @@ img_in = imread('x.bmp');
 
 
 ## Results
-<img width = "100%" src = "[road](https://github.com/YASHANAND23IITKGP/LIME_IMAGE-_PROCESSING/assets/149921036/02b50590-e50c-4ea0-b480-ff1811502ed2)
- />
+
 
 > **First column**: Low-light images, **second column**: heat map of initial illumination map, **third column**: heat map of estimated illumination map, **fourth column**: enhanced results, **fifth column**: denoised results via bilateral filtering. 
 
-<p align = "left"><img width = "100%" src = [cars](https://github.com/YASHANAND23IITKGP/LIME_IMAGE-_PROCESSING/assets/149921036/beffe46d-4e7f-4c5f-8561-cf628b100a16)
-</p>
+
 
 > Some low-light images from **ExDark dataset**, and results obtained from our implementation.
 
