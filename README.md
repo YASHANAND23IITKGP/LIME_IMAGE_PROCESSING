@@ -54,7 +54,7 @@ img_in = imread('x.bmp');
 
 
 ## Results
-<img width = "100%" src = "assets/8_combined.png" />
+<img width = "100%" src = "Images/8_combined.png" />
 
 > **First column**: Low-light images, **second column**: heat map of initial illumination map, **third column**: heat map of estimated illumination map, **fourth column**: enhanced results, **fifth column**: denoised results via bilateral filtering. 
 
