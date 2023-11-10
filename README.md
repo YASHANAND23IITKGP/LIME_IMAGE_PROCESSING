@@ -54,7 +54,10 @@ img_in = imread('x.bmp');
 
 
 ## Results
-C:\Users\User\Desktop\SPML\image processing\DIP CAPSTONE\code\imgs\building.bmp
+![road_result](https://github.com/YASHANAND23IITKGP/LIME_IMAGE-_PROCESSING/assets/149921036/dc543e9c-8326-4a3c-9bad-9ea6b71273b4)
+![cars_result](https://github.com/YASHANAND23IITKGP/LIME_IMAGE-_PROCESSING/assets/149921036/0abe3959-764b-4af3-880a-91ff6b41a69a)
+![comparision](https://github.com/YASHANAND23IITKGP/LIME_IMAGE-_PROCESSING/assets/149921036/0a2e8af6-9a82-4e47-ad3c-8de21a05a7f8)
+
 
 
 > **First column**: Low-light images, **second column**: heat map of initial illumination map, **third column**: heat map of estimated illumination map, **fourth column**: enhanced results, **fifth column**: denoised results via bilateral filtering. 
