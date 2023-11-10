@@ -52,17 +52,17 @@ img_in = imread('x.bmp');
 
 * `lime_bf_loop.m` is the file for tuning the parameters for the bilateral filter, i. e. `ds`, `ss`. By default, `lime_bf_loop.m` is used for post-processing.
   
-* `initial_map.p` is the file for obtaining initial illumination map.
+* `initial_map.m` is the file for obtaining initial illumination map.
   
-* `gamma_corr` is the file for applying gamma correction.
+* `gamma_corr.m` is the file for applying gamma correction.
   
-* `make_weight_matrix` is the file for making the weight matrix.
+* `make_weight_matrix.m` is the file for making the weight matrix.
   
-* `shrinkage` is the file for performing shrinkage operation.
+* `shrinkage.m` is the file for performing shrinkage operation.
   
-* `updateT` is the file for updating the value of illumination map.
+* `updateT.m` is the file for updating the value of illumination map.
   
-* `maked_alt` is the file for creating the matrix D for calculating gradient using matrix multiplication.
+* `maked_alt.m` is the file for creating the matrix D for calculating gradient using matrix multiplication.
 
 
 ## Results
