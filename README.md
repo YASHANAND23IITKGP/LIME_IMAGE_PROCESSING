@@ -57,10 +57,6 @@ img_in = imread('x.bmp');
 <!-- Using alt attribute for accessibility and debugging -->
 <img width="100%" src="Images/8_combined.png" alt="Combined Image Not Found" />
 
-<!-- Checking with a descriptive alt text -->
-<p align="left">
-    <img width="100%" src="assets/datasets_results.png" alt="Dataset Results Image Not Found" />
-</p>
 
 
 ## Citation
@@ -76,5 +72,5 @@ If you find this code helpful and use it in your research, please cite the follo
   pages={982-993},}
 ```
 ## Contributors
--KAUSHAL KISHOR
--ATUL SAURABH
+KAUSHAL KISHOR\\
+ATUL SAURABH
