@@ -23,7 +23,7 @@ addpath('./imgs');
 &nbsp; Run the following commands in the MATLAB command window:
 ```
 img_in = imread('x.bmp'); 
-[Ti, Tout, img_out, Iout] = lime_main_module(img_in, mu, rho, ds, ss, flag); 
+[Ti, Tout, img_out, Iout] = lime_main_module(img_in, mu, rho, ds, ss, flag);
 ```
 
 * `x` is some image from `imgs`
@@ -51,6 +51,12 @@ img_in = imread('x.bmp');
 * `lime_loop.m` is the file for tuning the parameters for the solver, i. e. `alpha`, `mu`, `rho`.
 
 * `lime_bf_loop.m` is the file for tuning the parameters for the bilateral filter, i. e. `ds`, `ss`. By default, `lime_bf_loop.m` is used for post-processing.
+* `initial_map.p` is the file for obtaining initial illumination map.
+* `gamma_corr` is the file for applying gamma correction.
+* `make_weight_matrix` is the file for making the weight matrix.
+* `shrinkage` is the file for performing shrinkage operation.
+* `updateT` is the file for updating the value of illumination map.
+* `maked_alt` is the file for creating the matrix D for calculating gradient using matrix multiplication.
 
 
 ## Results
