@@ -52,10 +52,9 @@ img_in = imread('x.bmp');
 
 * `lime_bf_loop.m` is the file for tuning the parameters for the bilateral filter, i. e. `ds`, `ss`. By default, `lime_bf_loop.m` is used for post-processing.
 
-* `histeq_all.m` is the file for generating the results of applying histogram equalization, on the raw image, in five different ways.
-
 
 ## Results
+C:\Users\User\Desktop\SPML\image processing\DIP CAPSTONE\code\imgs\building.bmp
 
 
 > **First column**: Low-light images, **second column**: heat map of initial illumination map, **third column**: heat map of estimated illumination map, **fourth column**: enhanced results, **fifth column**: denoised results via bilateral filtering. 
