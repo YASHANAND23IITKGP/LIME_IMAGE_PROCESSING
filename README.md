@@ -8,7 +8,7 @@ This is a MATLAB implementation of the paper, "LIME: Low-Light Image Enhancement
 ## How to Use 
 ### Clone the repository:
 ```
-git clone https://github.com/estija/LIME.git
+git clone https://github.com/YASHANAND23IITKGP/LIME_IMAGE-_PROCESSING
 ```
 
 &nbsp; Open MATLAB, go to the git repository folder.
